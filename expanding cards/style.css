@@ -1,0 +1,40 @@
+.container{
+    height: 100vh;
+    width: 100%;
+    margin: 0 auto;
+}
+.cards{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.card-item{
+   height: 80vh;
+   width: 80px;
+   border-radius: 50px;
+   background-image: url('/expanding\ cards/card.jpg');
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   cursor: pointer;
+   transition: all ease-in-out 1.3s;
+}
+
+.card-item.bck-1{
+   background-image: url('/expanding\ cards/card1.jpg');
+}
+.card-item.bck-2{
+    background-image: url('/expanding\ cards/card2.jpg');
+ }
+ .card-item.bck-3{
+    background-image: url('/expanding\ cards/card3.jpg');
+ }
+ .card-item.bck-4{
+    background-image: url('/expanding\ cards/card4.jpg');
+ }
+.card-item.active{
+    width: 700px;
+    transition: all ease-in-out 1.3s;
+}
