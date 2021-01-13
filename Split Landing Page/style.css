@@ -1,0 +1,105 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+.container{
+    display: flex;
+    align-items: center;  
+    height: 100vh;
+    width: 100%;
+}
+
+.apple{
+    background-image: url('apple.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: column;
+    transition: all ease-in-out 1s;
+}
+.samsung{
+    background-image: url('samsung.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    flex-direction: column;
+    transition: all ease-in-out 1s;
+
+}
+
+.samsung-title>h1{
+    font-size: 48px;
+}
+.samsung-btn{
+    margin: 15px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    width: 120px;
+    border: 2px solid #c9c0e9;
+    border-radius: 10px;
+    transition: all ease-in-out .5s;
+    cursor: pointer;
+}
+.samsung-btn>a{
+    font-size: 18px;
+    text-decoration: none;
+    color: black;
+    transition: all ease-in-out .5s;
+}
+
+.samsung-btn:hover{
+    background-color: #c9c0e9;
+    border: none;
+
+}
+.apple-title>h1{
+    font-size: 48px;
+    color: white;
+}
+
+.apple-btn{
+    margin: 15px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    width: 120px;
+    border: 2px solid #ea6858;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all ease-in-out .5s;
+}
+.apple-btn:hover{
+    background-color: #ea6858;
+    border: none;
+}
+.apple-btn>a{
+    color: white;
+transition: all ease-in-out .5s;
+    font-size: 18px;
+    text-decoration: none;
+    
+}
+
+.apple:hover{
+    width: 100%;
+}
+
+.samsung:hover{
+    width: 100%;
+}
