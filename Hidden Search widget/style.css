@@ -1,0 +1,58 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    height: 100vh;
+    width: 100%;
+    background: #11998e;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #38ef7d, #11998e);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #38ef7d, #11998e);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.input-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    position: relative;
+    background-color: white;
+    height: 50px;
+    transition: all ease-in-out 1s;
+    border-radius: 15px;
+    
+}
+
+
+
+.text-input {
+    height: 50px;
+    padding: 0 20px;
+    flex: 1;
+    border-radius: 15px;
+    outline: none;
+    border: none;
+    display: flex;
+    width: 0;
+    transition: all ease-in-out .7s;
+}
+
+.text-input.active{
+    width: 300px;
+}
+
+.search-img {
+    position: absolute;
+    top: 50%;
+    right: 5px;
+    transform: translateY(-50%);
+    height: 30px;
+    cursor: pointer;
+}
