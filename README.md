@@ -9,4 +9,7 @@
 5.  [Split Landing Page](https://github.com/VPeleven/20projects30days/tree/main/Split%20Landing%20Page)
 6.  [Increment Counter](https://github.com/VPeleven/20projects30days/tree/main/Increment%20Counter)
 7.  [Hashtag Enter](https://github.com/VPeleven/20projects30days/tree/main/Hashtag%20Enter)
-8.   [Movie API](https://github.com/VPeleven/20projects30days/tree/main/Movie%20Library)
+8.  [Movie API](https://github.com/VPeleven/20projects30days/tree/main/Movie%20Library)
+9.  [Background Slider](https://github.com/VPeleven/20projects30days/tree/main/Background%20Slider)
+10. [Password Blurry Background](https://github.com/VPeleven/20projects30days/tree/main/Password%20Blurry%20Background)
+11. [Verify Account](https://github.com/VPeleven/20projects30days/tree/main/Verify%20Account)
