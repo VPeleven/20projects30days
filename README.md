@@ -1,6 +1,8 @@
 # 20projects30days
 20 Projects in 30 Days - HTML/CSS and JavaScript/jQuery
 
+I am a self taught front-end web developer with a lot of passion in this area. I love to learn new things every day and to keep up with the new technologies.
+This is result of couple of weeks of learning Programming :)
 
 1.  [Expanding Cards](https://github.com/VPeleven/20projects30days/tree/main/expanding%20cards)
 2.  [Hidden Search widget](https://github.com/VPeleven/20projects30days/tree/main/Hidden%20Search%20widget)
@@ -9,4 +11,7 @@
 5.  [Split Landing Page](https://github.com/VPeleven/20projects30days/tree/main/Split%20Landing%20Page)
 6.  [Increment Counter](https://github.com/VPeleven/20projects30days/tree/main/Increment%20Counter)
 7.  [Hashtag Enter](https://github.com/VPeleven/20projects30days/tree/main/Hashtag%20Enter)
-8.   [Movie API](https://github.com/VPeleven/20projects30days/tree/main/Movie%20Library)
+8.  [Movie API](https://github.com/VPeleven/20projects30days/tree/main/Movie%20Library)
+9.  [Background Slider](https://github.com/VPeleven/20projects30days/tree/main/Background%20Slider)
+10. [Password Blurry Background](https://github.com/VPeleven/20projects30days/tree/main/Password%20Blurry%20Background)
+11. [Verify Account](https://github.com/VPeleven/20projects30days/tree/main/Verify%20Account)
