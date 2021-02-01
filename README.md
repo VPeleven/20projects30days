@@ -1,7 +1,7 @@
 # 20projects30days
 20 Projects in 30 Days - HTML/CSS and JavaScript/jQuery
 
-I am a self taught front-end web developer with a lot of passion in this area. I love to learn new things every day and to keep up with the new technologies.
+I am a self taught front-end web developer with a lot of passion in this area. It's my first Challange #20projectsin30days. I love to learn new things every day and to keep up with the new technologies.
 This is result of couple of weeks of learning Programming :)
 
 1.  [Expanding Cards](https://github.com/VPeleven/20projects30days/tree/main/expanding%20cards)
